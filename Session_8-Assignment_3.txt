@@ -1,0 +1,14 @@
+Problem:
+
+You take the SAT and score 1100. The mean score for the SAT is 1026 and the standard
+deviation is 209. How well did you score on the test compared to the average test taker?
+
+
+Ans)
+
+
+Calculate Z value = (your score - avg score)/std = 0.354
+
+by using z-table we will get 0.1368 for this we need to add 0.5 , so we will get 63.68% (when converted to percentage)
+
+So  63.68 percentage of test-takers scored below you
